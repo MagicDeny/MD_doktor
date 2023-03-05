@@ -3,8 +3,7 @@
 
 ### Download & Instal ###
 
-- Buy & download here --------- https://magicdeny.tebex.io/category/2048900
-- download the script after purchasing it
+- download the script
 - after downloading, put it in the [scripts] folder
 - after pasting, open config and write the script to config
 
